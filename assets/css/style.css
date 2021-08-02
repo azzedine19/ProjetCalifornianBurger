@@ -661,6 +661,18 @@ fieldset[disabled] .btn-primary.active {
 /*  5 - HEADER
 /*-----------------------------------------------------------------------------------*/
 
+
+/*#LogoCalif{
+    width: 250px;
+
+}
+@media
+(min-width: 375px) and (max-width: 400px),
+(min-width: 468px) {
+    #LogoCalif {
+        width: 150px;
+    }
+}*/
 #headerwrap {
     background-color: #f3f3f3;
     overflow: hidden
